@@ -7,6 +7,8 @@ import store from './store';
 import '@/plugins/element';
 // eCharts
 import '@/plugins/eCharts';
+// primeVue
+import '@/plugins/primeVue';
 
 Vue.config.productionTip = false;
 

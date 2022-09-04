@@ -16,6 +16,8 @@
     "echarts": "^5.2.2",
     "element-ui": "^2.15.6",
     "icons-css-ion": "^1.0.0",
+    "primeicons": "^5.0.0",
+    "primevue": "^2.9.2",
     "secure-ls": "^1.2.6",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
